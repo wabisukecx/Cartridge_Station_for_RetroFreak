@@ -48,12 +48,14 @@ After that, start it by double-clicking `Cartridge_Station_for_RetroFreak_Window
 
 ### MiSTer
 
-Transfer `Cartridge_Station_for_RetroFreak_MiSTer.zip` to `/media/fat/Scripts` and extract it over SSH.
+Transfer `Cartridge_Station_for_RetroFreak_MiSTer.zip` to `/media/fat/Scripts` using FTP, SCP, or another file transfer method, then connect over SSH and extract it with the commands below. The ZIP includes the launcher shell script `Cartridge_Station_for_RetroFreak.sh`; you do not need to obtain it separately.
 
 ```sh
 cd /media/fat/Scripts
 unzip -o Cartridge_Station_for_RetroFreak_MiSTer.zip
 ```
+
+Extraction places the launcher `Cartridge_Station_for_RetroFreak.sh` and the application folder `Cartridge_Station_for_RetroFreak/` directly under `/media/fat/Scripts`. Start the app from **Scripts → Cartridge_Station_for_RetroFreak** in the MiSTer menu.
 
 Extracting over an existing install does not change your personal settings (`config/*.json`) or your saved ROMs. For the design of the layout and settings, see [Distribution](docs/DISTRIBUTION.md) and [Configuration](docs/CONFIGURATION.md). If you are moving from the old name (MiSTer Cart Station), see "Carrying over settings from the old name's install location" in the latter.
 

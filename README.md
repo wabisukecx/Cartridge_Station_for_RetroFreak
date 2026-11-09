@@ -75,7 +75,9 @@ cd /media/fat/Scripts
 unzip -o Cartridge_Station_for_RetroFreak_MiSTer.zip
 ```
 
-Start **Cartridge_Station_for_RetroFreak** from the MiSTer Scripts menu. From a terminal, run `python3 cart_station.py --usb manager`. See [MiSTer manager](docs/FRONTEND_MISTER_MANAGER.md) and [Distribution](docs/DISTRIBUTION.md) for the design.
+The ZIP includes the launcher shell script `Cartridge_Station_for_RetroFreak.sh`; you do not need to obtain it separately. Extraction places this launcher and the application folder `Cartridge_Station_for_RetroFreak/` directly under `/media/fat/Scripts`.
+
+Start **Cartridge_Station_for_RetroFreak** from the MiSTer Scripts menu. From a terminal, change to `/media/fat/Scripts/Cartridge_Station_for_RetroFreak` and run `python3 cart_station.py --usb manager`. See [MiSTer manager](docs/FRONTEND_MISTER_MANAGER.md) and [Distribution](docs/DISTRIBUTION.md) for the design.
 
 ### How an import works
 

@@ -48,12 +48,14 @@ py -m venv .venv
 
 ### MiSTer
 
-`Cartridge_Station_for_RetroFreak_MiSTer.zip` を `/media/fat/Scripts` に転送し、SSHで展開します。
+`Cartridge_Station_for_RetroFreak_MiSTer.zip` をFTPやSCPなどで `/media/fat/Scripts` に転送し、SSHで接続して次のコマンドで展開します。起動用シェルスクリプト `Cartridge_Station_for_RetroFreak.sh` もZIPに同梱されているため、別途用意する必要はありません。
 
 ```sh
 cd /media/fat/Scripts
 unzip -o Cartridge_Station_for_RetroFreak_MiSTer.zip
 ```
+
+展開すると、`/media/fat/Scripts` 直下に起動用の `Cartridge_Station_for_RetroFreak.sh` と、アプリ本体を収めた `Cartridge_Station_for_RetroFreak/` フォルダーが配置されます。MiSTerの **Scripts → Cartridge_Station_for_RetroFreak** を選んで起動します。
 
 上書き展開しても、個人設定（`config/*.json`）と保存済みROMは変わりません。配置と設定の設計は [配布設計](docs/ja/DISTRIBUTION.md) と [設定の設計](docs/ja/CONFIGURATION.md)。旧名（MiSTer Cart Station）から移る場合は、後者の「旧名の設置先からの設定の引き継ぎ」を参照してください。
 
