@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "pc": {
+    "NES": "~/RetroFreakDumps",
+    "GB": "~/RetroFreakDumps",
+    "GBC": "~/RetroFreakDumps",
+    "GBA": "~/RetroFreakDumps",
+    "MD": "~/RetroFreakDumps",
+    "PCE": "~/RetroFreakDumps",
+    "SGX": "~/RetroFreakDumps",
+    "SFC": "~/RetroFreakDumps"
+  },
+  "mister": {
+    "NES": "/media/fat/games/NES",
+    "GB": "/media/fat/games/Gameboy",
+    "GBC": "/media/fat/games/GBC",
+    "GBA": "/media/fat/games/GBA",
+    "MD": "/media/fat/games/MegaDrive",
+    "PCE": "/media/fat/games/TGFX16",
+    "SGX": "/media/fat/games/TGFX16",
+    "SFC": "/media/fat/games/SNES"
+  }
+}

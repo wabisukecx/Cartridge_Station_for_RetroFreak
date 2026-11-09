@@ -1,0 +1,42 @@
+# Python / environments
+__pycache__/
+*.pyc
+.venv/
+vendor/
+
+# Build output and local backups
+dist/
+backup/
+
+# Runtime leftovers
+runtime/
+*.bad
+*.bad-[0-9]*
+.rfdump-*.tmp
+
+# Personal configuration and diagnostic logs
+config/*.json
+!config/*.example.json
+logs/
+
+# Local cartridge data
+*.nes
+*.sfc
+*.smc
+*.gb
+*.gbc
+*.gba
+*.pce
+*.sgx
+*.gen
+*.sav
+*.srm
+
+# Local research metadata
+data/nes_catalog.reference.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

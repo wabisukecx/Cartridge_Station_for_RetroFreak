@@ -1,0 +1,10 @@
+# Normalize text in the repository; keep platform-required endings on checkout.
+* text=auto
+*.sh  text eol=lf
+*.cmd text eol=crlf
+*.py  text
+*.md  text
+# Bundled DB and test fixture JSON: keep their bytes unchanged.
+*.json -text
+*.png binary
+*.zip binary

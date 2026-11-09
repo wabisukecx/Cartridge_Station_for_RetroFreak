@@ -1,0 +1,2970 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "system": "PCE",
+      "platform": "SGX",
+      "title": "1941 - Counter Attack (Japan).sgx",
+      "size": 1048576,
+      "sha1": "66873b0e0cc699aa75daf06a3f74c0508037e605"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "1943 Kai (Japan).pce",
+      "size": 524288,
+      "sha1": "3ac86354155ca01859c53e2f2287a715cd3fca13"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "21 Emon - Mezase Hotel Ou!! (Japan).pce",
+      "size": 524288,
+      "sha1": "de80a0d266916799ee5666815d9fd11602bdbdec"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "AV Poker - World Gambler (Japan) (Unl).pce",
+      "size": 524288,
+      "sha1": "9d71b3dca401ea02595917ce5a3dbe8fb6edb7bb"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Adventure Island (Japan).pce",
+      "size": 262144,
+      "sha1": "01ad5bbd7316740409e01917c19494cb26173ff5"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Aero Blasters (Japan).pce",
+      "size": 524288,
+      "sha1": "748ec92246140565d95f6fb727de6167227b85d3"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Aero Blasters (USA).pce",
+      "size": 524288,
+      "sha1": "23b7da6a6067563af5fdf303d83adeae818cdcdf"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "After Burner II (Japan).pce",
+      "size": 524288,
+      "sha1": "50b9d22fe5179aee5cb95022472714ef8483841f"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Air Zonk (USA).pce",
+      "size": 524288,
+      "sha1": "1ee94b6016ffdf996409955287e8799019a68658"
+    },
+    {
+      "system": "PCE",
+      "platform": "SGX",
+      "title": "Aldynes - The Misson Code for Rage Crisis (Japan).sgx",
+      "size": 1048576,
+      "sha1": "d876248ee1b80ad11633fd4be8aa21a187b52193"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Alien Crush (Japan).pce",
+      "size": 262144,
+      "sha1": "a1e6ad82b66a82c25e0a9e25fb8be370f49c8c2d",
+      "sha256": "0539f2ab4b72f4221383affcf84d9a0bcd1f507cdeb9023a0123f1e5540d1965"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Alien Crush (USA).pce",
+      "size": 262144,
+      "sha1": "1bfa4b5139612b0c33e3282c23e56c1dfc08ed52",
+      "sha256": "1af27c808be34e0c2fe435c169f5169417d6362dee0e928413581a1f6126557f"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "All Star Power League (Japan).pce",
+      "size": 262144,
+      "sha1": "3b66b7273e7b04cdb16d6e333e764f9462dd8f26"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Andre Panza Kick Boxing (USA).pce",
+      "size": 524288,
+      "sha1": "b21023fcf1b16b8ef9890e8087bab71a43253700"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Ankoku Densetsu (Japan).pce",
+      "size": 262144,
+      "sha1": "b6ae249f0a4954df6e53c21ba81646ecbc7c2945"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Aoi Blink (Japan).pce",
+      "size": 393216,
+      "sha1": "367aa348fca42a2aa1ce28bb88800d2fb0cd0ed7"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Appare! Gateball (Japan).pce",
+      "size": 262144,
+      "sha1": "5efee117bb8fd24ccbc8ed68ae5d36cea960f37e",
+      "sha256": "204347aa8bb5fe51095d6d0b469a5d52bc2bd7c726baf47e52f68a11c4e50cd1"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Armed F (Japan).pce",
+      "size": 262144,
+      "sha1": "a326c9cece6f14b82629c4c79b34df819b022dce"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Artist Tool (Japan).pce",
+      "size": 262144,
+      "sha1": "691ac36ccfcade010e34e2d1dedbcc9af6ed5cd4"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Atomic Robo-Kid Special (Japan).pce",
+      "size": 524288,
+      "sha1": "1ea46287855ef25e4614a3f37a7037baa5a49545"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Ballistix (Japan).pce",
+      "size": 262144,
+      "sha1": "e687abeb0f94e85fafa52e92b0beb82542f0c368"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Ballistix (USA).pce",
+      "size": 262144,
+      "sha1": "8f65c5b459b477adc97ab7809ca8e85329f25769"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Bari Bari Densetsu (Japan).pce",
+      "size": 393216,
+      "sha1": "d063cf1b378a4741e4eb01e9de99d6f618b077da"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Barunba (Japan).pce",
+      "size": 524288,
+      "sha1": "5f110864af252462e144aa01a7a6ecb88d2a4eb1"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Batman (Japan).pce",
+      "size": 393216,
+      "sha1": "87e93e23c0c3ef960e9a226fc10a5fc9625d43a7"
+    },
+    {
+      "system": "PCE",
+      "platform": "SGX",
+      "title": "Battle Ace (Japan).sgx",
+      "size": 524288,
+      "sha1": "edc8f7d2233c92ebd309ac804527c461851a4b63"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Battle Chopper (Japan).pce",
+      "size": 524288,
+      "sha1": "df6346583d7169ffdec03925c9b15d3e4f066079",
+      "sha256": "60e788c03cd0c21fc2f361104323c7da05584a47966d8c26629d8d49f6812784"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Battle Lode Runner (Japan).pce",
+      "size": 262144,
+      "sha1": "0907d3a3503bd7dc2cae0d1b88c1f3f5be56fa22",
+      "sha256": "523722e400c607428f5131f3c7d38f81721fed46d3e6acc24370e4a9a6ac610f"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Battle Royale (USA).pce",
+      "size": 524288,
+      "sha1": "07b39d5315aa07bf880b89b10dc3c01ed7ced5ab"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Be Ball (Japan).pce",
+      "size": 262144,
+      "sha1": "55d8815a4a432e587fc7483b63b73114fe40e710",
+      "sha256": "e16aacab6731e490ffd16f9893f52c6e1cc6c97ffe9950fce67c68283ef38a6a"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Benkei Gaiden (Japan).pce",
+      "size": 393216,
+      "sha1": "4bc46592f3707a7c3e514abc23e640e3194879ad"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Bikkuriman World (Japan).pce",
+      "size": 262144,
+      "sha1": "5c09536bbd46337bd563818f637afe2a609bb08b",
+      "sha256": "28ad456399f90ebf45f12143481e87860afd6568c2f62b6ec3723c9a7a72b366"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Blazing Lazers (USA).pce",
+      "size": 393216,
+      "sha1": "13712aaee596ad96ab743d5e82ed96895089afeb"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Blodia (Japan).pce",
+      "size": 131072,
+      "sha1": "bcb3070f617059c9d0d781ece2aee9ae74951f6a",
+      "sha256": "3d71fd9d81c75ff4204add901c4369aa71541bfcd8710f8f03e353846a061673"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Bloody Wolf (USA).pce",
+      "size": 524288,
+      "sha1": "45f8762414fb6b581b6159908cc35b2607ecf237"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Bodycon Quest II (Japan) (Unl).pce",
+      "size": 524288,
+      "sha1": "72edaf529c41f7c81d1e1fc7dc27bae8e598da9b"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Bomberman '93 (Japan).pce",
+      "size": 524288,
+      "sha1": "64131aeb6753bffde2910d641c73b56108874320",
+      "sha256": "ab9a65070da8becd5975f5ce1d30f3742018f1171fa881c370d4806873624efb"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Bomberman '93 (USA).pce",
+      "size": 524288,
+      "sha1": "709b47de6e0ebc18fb80c951d5cfaa6ce82d6ce0"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Bomberman '93 - Special Version (Japan).pce",
+      "size": 524288,
+      "sha1": "79af6d5987267238cf8f729af79e25349cb0bf03"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Bomberman '94 (Japan).pce",
+      "size": 1048576,
+      "sha1": "9085b474199531259b4ebbc05a279ae96cb7c5bd",
+      "sha256": "68b88ae5ad1bf393ddb95d4d3880bb1d97e3f83e2332708cb666997bd58bc126"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Bomberman (Japan).pce",
+      "size": 262144,
+      "sha1": "738bbced47d87cd438d7972eba58c08f5c031a74",
+      "sha256": "43898012a25d837a94ea988e254edfbaa77a82465575d7a52c5ba1dba920362d"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Bomberman (USA).pce",
+      "size": 262144,
+      "sha1": "dc63680e579764bbacb7f07514f4f49ab888d3b1"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Bomberman - Users Battle (Japan).pce",
+      "size": 262144,
+      "sha1": "96ba02050843cacb149859128a8f3313bff44358"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Bonk 3 - Bonk's Big Adventure (USA).pce",
+      "size": 1048576,
+      "sha1": "b966df0281f7fab4536afc166278e1bec0d926c4"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Bonk's Adventure (USA).pce",
+      "size": 393216,
+      "sha1": "403c4fbdb617cea5b8cd0c8d06ae988f6aef93bd"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Bonk's Revenge (USA).pce",
+      "size": 524288,
+      "sha1": "1f6c2766507d72fb55fbf84d2a8b45cf86709c0b"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Bouken Danshaku Don - The Lost Sunheart (Japan).pce",
+      "size": 524288,
+      "sha1": "a0ae06b1ced94a2dea20b8c62ad64dcf701e1a25"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Boxyboy (USA).pce",
+      "size": 131072,
+      "sha1": "7e165324d735a20156fd90ac97d0bf1c115e0a02"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Bravoman (USA).pce",
+      "size": 524288,
+      "sha1": "6fb31af03a5370c5c9bc280e0f8f8169d114150b"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Break In (Japan).pce",
+      "size": 262144,
+      "sha1": "2a409cbe09529c6995954b3985168882bad80aa4",
+      "sha256": "8e735c2522c7873a0164002559e9394415c11439104182a27448847526e5262a"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Bubblegum Crash! - Knight Sabers 2034 (Japan).pce",
+      "size": 524288,
+      "sha1": "03d0638f27d35b28b7e5e7db16f823de0726c2c5"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Bull Fight - Ring no Hasha (Japan).pce",
+      "size": 393216,
+      "sha1": "6cd94e6209da2939752ab6b1c2d46e5b48c8e0cb"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Burning Angels (Japan).pce",
+      "size": 393216,
+      "sha1": "d34f38058ac1d8276e145a47fc4fdc1310f49a60"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Busou Keiji - Cyber Cross (Japan).pce",
+      "size": 393216,
+      "sha1": "902deeca17b897091d6f581d1d5db916ba0cb0f7"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Cadash (Japan).pce",
+      "size": 393216,
+      "sha1": "3755cb2b883bc106e58019e1cd82708a63394f35"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Cadash (USA).pce",
+      "size": 524288,
+      "sha1": "31c9692ba8c7eab995a6d3ab1e2079b69b47847f"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Champion Wrestler (Japan).pce",
+      "size": 393216,
+      "sha1": "c865834d69b765bfb9f7730d98dfc167c360e964"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Champions Forever Boxing (USA).pce",
+      "size": 524288,
+      "sha1": "db7005b4679276bc65d04a45da131db7b47bae75"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Chase H.Q. (USA).pce",
+      "size": 393216,
+      "sha1": "d29a7440573324b5560185e6e012cb54a77e88f2"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Chew-Man-Fu (USA).pce",
+      "size": 262144,
+      "sha1": "5c742fe5d5af5628ba0e598cb88abd892dc87682",
+      "sha256": "4766db13b679c72d70912e68da83dd02e21b0028529df95a50d3557e995d4ddd"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Chibi Maruko-chan - Quiz de Piihyara (Japan).pce",
+      "size": 524288,
+      "sha1": "de35c38944c42f2c14581e3ea003c1168b609aa6"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Chikudenya Toubei - Kubikiri Yakata Yori (Japan).pce",
+      "size": 524288,
+      "sha1": "75805bfd024c105bf450d5367953d0f9d4517eef"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "China Warrior (USA).pce",
+      "size": 262144,
+      "sha1": "1933869f66f30da4bc07b9ff6b6c2897b32088f2",
+      "sha256": "3b9f459c864b1274861dd0cd9dd77928769553f69a8403cc5f4d984631ffbc36"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Chouzetsurinjin Bravoman (Japan).pce",
+      "size": 524288,
+      "sha1": "9abb7d96a4dba96a26f7073ea06cb8b2deb24a43"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Circus Lido (Japan).pce",
+      "size": 262144,
+      "sha1": "b7a4157ad47d1f89ede201b56d5cd57650bcf18e"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "City Hunter (Japan).pce",
+      "size": 393216,
+      "sha1": "8265cb33901609ec1cf156b8e0c7fc3884bc1acd"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Columns (Japan).pce",
+      "size": 131072,
+      "sha1": "238f9ee6cc80b31c5c93a4f43281e690200bdea3"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Coryoon - Child of Dragon (Japan).pce",
+      "size": 524288,
+      "sha1": "709595f04defcc55181f7502a0065e4c22d5fb19"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Cratermaze (USA).pce",
+      "size": 262144,
+      "sha1": "2fa767e37f3d2a272861f969bdc7a3435f207fbf"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Cross Wiber - Cyber Combat Police (Japan).pce",
+      "size": 524288,
+      "sha1": "9eed16c7df8e00faf9758cd5987fb06dbdf99cef"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Cyber Core (Japan).pce",
+      "size": 393216,
+      "sha1": "75bbd695e55a01a423a6c2404335d75f5bb65437"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Cyber Core (USA).pce",
+      "size": 393216,
+      "sha1": "d0765259b06b12dfda66d8b861954ebc62022440"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Cyber Dodge (Japan).pce",
+      "size": 524288,
+      "sha1": "fd6e6ed4f8124a6db42dcddd34d08beacbb6dd52"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Cyber Knight (Japan).pce",
+      "size": 524288,
+      "sha1": "3a860735700dcf7b5dfd83e63b2a50c715abccb5"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Daichi-kun Crisis - Do Natural (Japan).pce",
+      "size": 393216,
+      "sha1": "5bbf5e6bd3d2cda38c3a6ef8189a159aaf709a98"
+    },
+    {
+      "system": "PCE",
+      "platform": "SGX",
+      "title": "Daimakaimura (Japan).sgx",
+      "size": 1048576,
+      "sha1": "cab9e4a1a8b6da07cc2c5cc35949928199a417ee"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Daisenpuu (Japan).pce",
+      "size": 524288,
+      "sha1": "81f8c8f01530bb3d22e2dd463202d0e26e7faf24"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Darius Alpha (Japan) (SG Enhanced).pce",
+      "size": 393216,
+      "sha1": "f59c538fa632f687c356af70659fb07b37933f78"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Darius Plus (Japan) (SG Enhanced).pce",
+      "size": 786432,
+      "sha1": "a362c06e4466b2b3dc7a682f892988189117ef62"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Darkwing Duck (USA).pce",
+      "size": 524288,
+      "sha1": "8c0cf2b058daef3ff5438808bfd48b9393c23b58"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Davis Cup Tennis (USA).pce",
+      "size": 524288,
+      "sha1": "7e3ad77375d9c62e060cd6f6e57493196a4a739d"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Dead Moon (USA).pce",
+      "size": 524288,
+      "sha1": "b289533a795ef874cc9bac158e3035101f892475"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Dead Moon - Getsu Sekai no Akumu (Japan).pce",
+      "size": 524288,
+      "sha1": "d86ba171b459c286243306407311d85d013a2833"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Deep Blue (USA).pce",
+      "size": 262144,
+      "sha1": "91b8dd861d848033bb95b0c8c5e878ee827fef41"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Deep Blue - Kaitei Shinwa (Japan).pce",
+      "size": 262144,
+      "sha1": "f9cb1e26b4274759890844c36d8fd8e9cd1a195c"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Detana!! TwinBee (Japan).pce",
+      "size": 524288,
+      "sha1": "e1d07a2f71c695b53755bade6fe81e46e4c4828c",
+      "sha256": "122d9b8ebc6348d7d29bbd11aafbfc5bb9fe1967bc0383e33487c45d61d0c201"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Devil Crash - Naxat Pinball (Japan).pce",
+      "size": 393216,
+      "sha1": "808638c33e110285d0d9415bc046b94a84b02c6a"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Devil's Crush (USA).pce",
+      "size": 393216,
+      "sha1": "1c54fb80e5acf82d7346dd7f2e8db8c74c58f4ba"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Die Hard (Japan).pce",
+      "size": 524288,
+      "sha1": "96aeca126bb6ac0ca0df5ee260a8a1ee25f44d6d"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Digital Champ (Japan).pce",
+      "size": 262144,
+      "sha1": "e0af39b67be8c5086795b3dca95f469624aca428",
+      "sha256": "a2c9ee55b35f60c4fd8bf5de5f688722f956c6b2c5e485eb72132759d4955a6c"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Don Doko Don! (Japan).pce",
+      "size": 393216,
+      "sha1": "a32d06bf7951607059d0eb789d74009b865b6764"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Doraemon - Meikyuu Daisakusen (Japan).pce",
+      "size": 262144,
+      "sha1": "81769dc4e2e669f6ae98872d22c52ac290530a28",
+      "sha256": "f92771b8b81b5aa618dc4ba12eabc3f48062cc66e7a241b47ca5a1919ec89b03"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Doraemon - Nobita no Dorabian Night (Japan).pce",
+      "size": 524288,
+      "sha1": "feea7cb74d4e256eb75ab46fcfc40c21743d5487"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Double Dungeons (Japan).pce",
+      "size": 262144,
+      "sha1": "a5a032283f24a4e487715ffb36b3fc4615656b37"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Double Dungeons (USA).pce",
+      "size": 262144,
+      "sha1": "4e81f6cfa47ed941922492889be432041ff99e25"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Download (Japan).pce",
+      "size": 524288,
+      "sha1": "847bd22cccdf929def8fc348b973faee2688e648"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Dragon Egg! (Japan).pce",
+      "size": 524288,
+      "sha1": "56c69f24b542fea72cc753ddf0e4bb23974adbdf",
+      "sha256": "02465b0e5e21b49a398cc9276201c3271c86cfefd48215c226a819ee147f56b2"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Dragon Saber (Japan).pce",
+      "size": 524288,
+      "sha1": "6d94cd3e27dbe1694229f7f006dc821be4764aa2"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Dragon Spirit (Japan).pce",
+      "size": 262144,
+      "sha1": "09b037fde801b71d1ff343c40ff5a58372b9a514",
+      "sha256": "f912b281be21b72f403dfc56ffb4123581c5a703fe058cd0b0665f78e06aea0c"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Dragon Spirit (USA).pce",
+      "size": 262144,
+      "sha1": "3bdd082360335232715633b469da71ab2597279d"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Dragon's Curse (USA).pce",
+      "size": 262144,
+      "sha1": "39b382725e38d6303ae2b19f1cabbd96ca661b07"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Drop Off (USA).pce",
+      "size": 262144,
+      "sha1": "54bb6ea11aca4ca6a16ba439828ba1f6fada3623"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Drop Rock Hora Hora (Japan).pce",
+      "size": 262144,
+      "sha1": "b1b28d6dac76c3e3547f0a5a695110fd506643e0"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Dungeon Explorer (Japan).pce",
+      "size": 393216,
+      "sha1": "77caece9655a0e14330884673ffb41ff2bb625c4",
+      "sha256": "d8e80e9ba4a10bd5efa9bae397db7371e05a9bfc44fcec4c3c1f55bd08889510"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Dungeon Explorer (USA).pce",
+      "size": 393216,
+      "sha1": "d6d18128d55d886a9b6a8c8ea65af76e783001f9",
+      "sha256": "b6cceb5226c5be1e5339c95cdceef6ea4d31ecef428f24012953d8a38f44ecb8"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Dungeons & Dragons - Order of the Griffon (USA).pce",
+      "size": 524288,
+      "sha1": "bbfdcaaed7ed9c96364e3ca36807b9ac3bac8622"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Energy (Japan).pce",
+      "size": 262144,
+      "sha1": "8a43ac4f92cf6715e95b607c75e5c9e43b1c7575",
+      "sha256": "15b0d59042625bbe5fbb918fda6db03ac3df3881d496f526c7c5845cfa69c5f2"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Eternal City - Toshi Tensou Keikaku (Japan).pce",
+      "size": 393216,
+      "sha1": "61e9102c02f87af87bd2e0b75093c01e12cf4801"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "F-1 Dream (Japan).pce",
+      "size": 262144,
+      "sha1": "3e1b0829cc44cd254bbfdbcc29a4045d53d32639"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "F-1 Pilot - You're King of Kings (Japan).pce",
+      "size": 393216,
+      "sha1": "ba89f45d9b2ebd331da570f9e03ab0c8ae2cc835",
+      "sha256": "cdac98901c48b06a1fe8e101c199961a787b9d63f20a1fd425be9bd56d9040f5"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "F1 Circus '91 (Japan).pce",
+      "size": 524288,
+      "sha1": "e424bb52a3739c7c4723a81d16a091ae2dba49eb",
+      "sha256": "6104d1542aabe2f2b77982280b062aa994dcacc706daaeb6b1c6b614d9fa2063"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "F1 Circus '92 - The Speed of Sound (Japan).pce",
+      "size": 786432,
+      "sha1": "c2ccd2110ae6a9d6cd64cce26b0264868d684933"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "F1 Circus (Japan).pce",
+      "size": 524288,
+      "sha1": "9a83f109f785fe75d58661645c95ff25a0699571",
+      "sha256": "275df5ba11434c8f71963330c13d78911d33ebd863152f84484d9e9949c20710"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "F1 Triple Battle (Japan).pce",
+      "size": 393216,
+      "sha1": "0a219b433529b3214f42734c2a144d238cb3c99c",
+      "sha256": "81ee45aad5e385e6ccd03a6f2ce09f03af2e7aa625185a256a20df537d166a70"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Falcon (USA).pce",
+      "size": 524288,
+      "sha1": "f02871ef343a59723f1eaf7aee36c626f15e12b2"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Fantasy Zone (Japan).pce",
+      "size": 262144,
+      "sha1": "9dfc979fdf65d6425504aff68dc80e83c69e7b40"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Fantasy Zone (USA).pce",
+      "size": 262144,
+      "sha1": "7c419163d860691dfea9720639921190e20e3c97"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Fighting Run (Japan).pce",
+      "size": 524288,
+      "sha1": "fdd2962412b401cd2d72a85ddb516071468bd9ff"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Final Blaster (Japan).pce",
+      "size": 393216,
+      "sha1": "4a013fde3938ceaacf38fcc4f56828d1292142d0"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Final Lap Twin (Japan).pce",
+      "size": 393216,
+      "sha1": "ad695b7d1fb8bac7d9e13045bf229dba98d56a71",
+      "sha256": "b87232428f19dec012cbe21b172c255498a8fc81289d1e0ce996349124062a52"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Final Lap Twin (USA).pce",
+      "size": 393216,
+      "sha1": "7ec6e816c4d89943d06dc88108ee415ed1f57be9"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Final Match Tennis (Japan).pce",
+      "size": 262144,
+      "sha1": "e3a97b468d0a6c94effde70bf331dc4b3d90b166",
+      "sha256": "eba4fed11bdb76bc545f97c2a76237c190e555a36b9330238708eb58cc1a5720"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Final Soldier (Japan) (En).pce",
+      "size": 524288,
+      "sha1": "ce89c6ea5d9eb36a642742ecad9c35c16b761c49"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Final Soldier - Special Version (Japan) (En).pce",
+      "size": 524288,
+      "sha1": "ba15992964c84d4c5998f5622ae78ad843cda5f0"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Fire Pro Wrestling - Combination Tag (Japan).pce",
+      "size": 393216,
+      "sha1": "d149ca397c5a45367c32fb78210e6febf734d837"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Fire Pro Wrestling 2 - 2nd Bout (Japan).pce",
+      "size": 524288,
+      "sha1": "24977d50f4e8af3fff9e5775128d9c04585ab533",
+      "sha256": "8152a91ffb7cda59cfaf4e297575bbf809aba286a5ef96e7bf26fb9f630572a5"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Fire Pro Wrestling 3 - Legend Bout (Japan).pce",
+      "size": 1048576,
+      "sha1": "77a3a3a69ef847f4b84c1b510934fe73db9fa442"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Formation Soccer - Human Cup '90 (Japan).pce",
+      "size": 262144,
+      "sha1": "d53db608475ca26ff81837dc43b40726bd0440a5",
+      "sha256": "fee7834722945464ca3865a1bc0b11b1f34ef9d8f15f5533c8bbbc827b42443c"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Formation Soccer - On J League (Japan).pce",
+      "size": 524288,
+      "sha1": "301d3e8aaa4c7f3f1c37838e3677d97e51319540",
+      "sha256": "a5871655c6beb3d33e9357dd370a42243558714115b38632ba6db4cefa7567b9"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Fushigi no Yume no Alice (Japan).pce",
+      "size": 393216,
+      "sha1": "c266b05dd367b2973399b8daff7c4dc33bebedd9",
+      "sha256": "d37bb8a54b1300dc88d55e7e05fe7ebd5c6f6b62a3fffc6dec87f62b2390638e"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Gai Flame (Japan).pce",
+      "size": 393216,
+      "sha1": "e86749fff3a09e48056ca66ce4bae3ba1adc8e18"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Gaia no Monshou (Japan).pce",
+      "size": 262144,
+      "sha1": "597174ebf0c39e95635cd15a8f6ad52634a05a18",
+      "sha256": "72eb97ea4841af6904d9cbbb22058b1bffb4b95f7dea0534e3374ab8cda59d3d"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Galaga '88 (Japan).pce",
+      "size": 262144,
+      "sha1": "246079bbf7c8aca0ca66a381986785a39f39ed06",
+      "sha256": "7768d2be4deb2a44395bb00f987eeda1e8e77299828557f154b79637d6ead32c"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Galaga '90 (USA).pce",
+      "size": 262144,
+      "sha1": "ff73a144eb2da537d0e1a3c8c56ef197fd6ce1ce"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Ganbare! Golf Boys (Japan).pce",
+      "size": 262144,
+      "sha1": "69794e5af0d2ec1a5bf6122c64fd5bc43092ae04"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Gekisha Boy (Japan).pce",
+      "size": 524288,
+      "sha1": "ee2665acb440d8b01da0d14feb51d4e0bb50c400"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Genji Tsuushin Agedama (Japan).pce",
+      "size": 524288,
+      "sha1": "25c35dae21e032fe8cd38d6e54a3330434e02adc"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Genpei Toumaden (Japan).pce",
+      "size": 524288,
+      "sha1": "c9ac518e9541c204d532fd531aaad5cd06763986",
+      "sha256": "394b093151fc040d0026f2e76a5b9e8f1e561b2d3059d0c1acdd15dc9d1b52bf"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Genpei Toumaden - Kan no Ni (Japan).pce",
+      "size": 524288,
+      "sha1": "fc712391b09c3ff2d6c894260f4b4c10b77219af"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Ghost Manor (USA).pce",
+      "size": 524288,
+      "sha1": "7092a265599194a280eca9314b496079cc49dcbd"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Gokuraku! Chuuka Taisen (Japan).pce",
+      "size": 393216,
+      "sha1": "b58e94e3e0c778e678c5d08c708ac4e37bedbbe3"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Gomola Speed (Japan).pce",
+      "size": 393216,
+      "sha1": "fe4b08fb0cd9d0a53726c2709db3e31fbeae1213"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Gradius (Japan).pce",
+      "size": 262144,
+      "sha1": "338f62b6d57f30b1850c32f5ae0d8c26c761974b",
+      "sha256": "0e6f41a37b0b856649490ff927a1e4e052c7c47c5d4298f4d0502181155007f8"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Gunboat (USA).pce",
+      "size": 524288,
+      "sha1": "0df6ede67061f5bca487fa01a8ea71640ef673a5"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Gunhed (Japan).pce",
+      "size": 393216,
+      "sha1": "0107d93ff5d10325092d45e6bfd21e8130efeed7"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Gunhed - Special Version (Japan).pce",
+      "size": 262144,
+      "sha1": "f21597e7d04506c515b156acea7fdb4c70a5c1c8"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Hana Taaka Daka! (Japan).pce",
+      "size": 524288,
+      "sha1": "664ccd11372b04739e388fb921ac507eb71986cd"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Hanii in the Sky (Japan).pce",
+      "size": 262144,
+      "sha1": "49b1c5d889002bf52be65114d7f0646493500170"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Hanii on the Road (Japan).pce",
+      "size": 393216,
+      "sha1": "67e7fd05e40c08a7e353501e1940ef1ec5ae8b05"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Hatris (Japan).pce",
+      "size": 131072,
+      "sha1": "1e2475ae58f1e612591aca44d742cc6558d75e15"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Heavy Unit (Japan).pce",
+      "size": 393216,
+      "sha1": "d55b3f1bf4f26e37be745e8bfade4384912eb647"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Hisou Kihei X-SERD (Japan).pce",
+      "size": 393216,
+      "sha1": "769acdd5a5642d17429a27d817d549c121687b01",
+      "sha256": "86863c36c424dbfe9c728ae1d41e1138e3f73bfaa8ae389d7517868ec1d3f35d"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Hit the Ice - VHL - The Official Video Hockey League (USA).pce",
+      "size": 393216,
+      "sha1": "19f201ffeb790c4d5685e5241cf5b37c25e15480"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Hit the Ice - VHL - The Video Hockey League (Japan).pce",
+      "size": 393216,
+      "sha1": "1452d2161d1da401f05c36a0a50492a6df9dc010"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Honoo no Toukyuuji - Dodge Danpei (Japan).pce",
+      "size": 524288,
+      "sha1": "76f8a7bb0c4854576a38a0b87fa923625ce1bc3e"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Idol Hanafuda Fan Club (Japan) (Unl).pce",
+      "size": 524288,
+      "sha1": "55ccdf9f02339f02a2f62c61a10180ea8a24817d"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Image Fight (Japan).pce",
+      "size": 524288,
+      "sha1": "4f2256e49cc71613a6b35d224be706ee95df17b9",
+      "sha256": "c1d837e4f53255058fc90765574717920e0b3376310c7a42d7d334e50394e7f6"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Impossamole (USA).pce",
+      "size": 524288,
+      "sha1": "bda974dfebe28c125f081363da3bbe96777404d7"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "J.J. & Jeff (USA).pce",
+      "size": 262144,
+      "sha1": "18ae2d9031f49e54145d83ff90df4189c36adef1"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "J.League Greatest Eleven (Japan).pce",
+      "size": 524288,
+      "sha1": "092ac9337c5b63f2ace2141e976444501dda0e6e"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Jack Nicklaus - Championship Golf (Japan).pce",
+      "size": 262144,
+      "sha1": "3806f0509288f76393a35f395c34a4e9e979e51f",
+      "sha256": "bf7f83f15f8c2d2f9fe6752ffd9fdb4c9be0a0e1d2cace45e9a31f085fd38758"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Jack Nicklaus' Turbo Golf (USA).pce",
+      "size": 262144,
+      "sha1": "49d240ec70e4f7cc98a14e4e4e5a0857bc1ee737"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Jackie Chan (Japan).pce",
+      "size": 524288,
+      "sha1": "44c9ce3b37ca9c5edfe840f78485048e2bd1bf41"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Jackie Chan's Action Kung Fu (USA).pce",
+      "size": 524288,
+      "sha1": "33ee18e3cd6ba59ffca70fa7a1322d6e44a08682"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Jaseiken Necromancer (Japan).pce",
+      "size": 262144,
+      "sha1": "49b4122ea576a7c1c8d1ae2c5bf627e550367246",
+      "sha256": "4feba9d96ca31f65babdb83bbbb430f61fe50dc2c3aedeec245574d2bae63ac2"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Jigoku Meguri (Japan).pce",
+      "size": 393216,
+      "sha1": "1ac58fcd36ba6f757a927d1bfcf28added00111b"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Jinmu Denshou (Japan).pce",
+      "size": 524288,
+      "sha1": "e38d6d83120301a7befa7f496f1a93768060032d"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Juuouki (Japan).pce",
+      "size": 524288,
+      "sha1": "8b274906e2488fa3a6be467c5bd8a2ac150d5801"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Kaizou Choujin Shubibinman (Japan).pce",
+      "size": 262144,
+      "sha1": "4db72b3a934e6255135ebc0533f900e1d5d828c8",
+      "sha256": "4d1204735ba743d70f5eca34abeea9f3ec15eba59a6e6419a19d695109b3c708"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).pce",
+      "size": 524288,
+      "sha1": "9c6fc53a92adead994d9b44afa92f34eebee05bb",
+      "sha256": "e0b3d22e7da091b5e4a6769874efd8e288646ce5e9703516cc4aa61a88d96841"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Kato-chan Ken-chan (Japan).pce",
+      "size": 262144,
+      "sha1": "1381c15587891083f7cde3b1224fcc6df45bc914",
+      "sha256": "5a1194e44af50b6ebef8630e136d16574c11cdeb32c5fc413d379452f36bac35"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Kattobi! Takuhai-kun (Japan).pce",
+      "size": 393216,
+      "sha1": "00e33d4f55c4dbe0ac493053bfebc9d6dbd469ea"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Keith Courage in Alpha Zones (USA).pce",
+      "size": 262144,
+      "sha1": "09f37cf6ddbbf202994d88ac62225ca027e791ac"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "KickBall (Japan).pce",
+      "size": 393216,
+      "sha1": "f2e59db46aa6bd70f0eec64566e113b53d56eb58"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Kiki Kaikai (Japan).pce",
+      "size": 393216,
+      "sha1": "8dc4fce4beca91f51f123acf8f1cc659ed58d312"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "King of Casino (Japan).pce",
+      "size": 262144,
+      "sha1": "2f635986a785f7b00954236e3ec5fece6fedec23",
+      "sha256": "a49bef2eac2bc1236cbf1224bdbfbd7b3f6f6f88c7305b7ec8f704bc4d4838b7"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "King of Casino (USA).pce",
+      "size": 262144,
+      "sha1": "b3bca08f73e6e1949b1f969a3d3e8a71b705673a"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Klax (Japan).pce",
+      "size": 262144,
+      "sha1": "cf952c23dfd771bfba50df645ba27782d3c44c16"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Klax (USA).pce",
+      "size": 262144,
+      "sha1": "4f032fdf7d836d021315bcd9b9903fdad4907f31"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Knight Rider Special (Japan).pce",
+      "size": 262144,
+      "sha1": "d2dbbd8b55b80d41e32a3907fcdafa985b60abe4",
+      "sha256": "a7b312fc5dfb504faf885fc16ac5b18658094dbfd6684ca69fe6b920cafce556"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Kore ga Pro Yakyuu '89 (Japan).pce",
+      "size": 262144,
+      "sha1": "4f506b4aac531bfdec9a7b7736efa2656be06f62"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Kore ga Pro Yakyuu '90 (Japan).pce",
+      "size": 262144,
+      "sha1": "a55d38119e533c035077e49947fce7c0b9f10882"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Kung Fu, The (Japan).pce",
+      "size": 262144,
+      "sha1": "dabdb21bef771282461f7bfee390a622217159ac",
+      "sha256": "3dd08ada517555dbf001492c72ebfcc5ef31de35b84d6aec2903e2dd70115257"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Kyuukyoku Mahjong - Idol Graphics (Japan) (Unl).pce",
+      "size": 524288,
+      "sha1": "7fd4d9e028bd589b9315f81b1d27049b7541212b"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Kyuukyoku Mahjong II (Japan) (Unl).pce",
+      "size": 524288,
+      "sha1": "1c3dfe795b84969e5c5acdece652f228fad6b163"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Kyuukyoku Tiger (Japan).pce",
+      "size": 262144,
+      "sha1": "e062b7e1fe9fe04f9c29df38165e3a4eb867fe2d"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).pce",
+      "size": 1048576,
+      "sha1": "7384d0d863da43c64d704f4f36ce55502e3b6159"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Legend of Hero Tonma (Japan).pce",
+      "size": 524288,
+      "sha1": "352e91337db64bc7edd788e4ccb9c240c7040898",
+      "sha256": "60266af1483e50aa487b6471ca62ec44bccbc02627fa32137f44193723af497f"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Legend of Hero Tonma (USA).pce",
+      "size": 524288,
+      "sha1": "a87586ae18bd36f1c32e08b8b7a55afc6532fb3e",
+      "sha256": "0bf74f9e89676f4bfaefdcbca7d651641146ee83ad71499ebb0c503aaceb7237"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Legendary Axe II (USA).pce",
+      "size": 262144,
+      "sha1": "3d537fbd2a7181639d297b829ce3f7d7556e831b"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Legendary Axe, The (USA).pce",
+      "size": 262144,
+      "sha1": "fc9829a802e400a088652b331e8522472f7ab2a0"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Lode Runner - Lost Labyrinth (Japan).pce",
+      "size": 262144,
+      "sha1": "7d019ff2e86b3af48b4c969c8339a124b7c803b6"
+    },
+    {
+      "system": "PCE",
+      "platform": "SGX",
+      "title": "Madou King Granzort (Japan).sgx",
+      "size": 524288,
+      "sha1": "5ed16565753c902e14da9a0c5361ef01fa74463b"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Maerchen Maze (Japan).pce",
+      "size": 262144,
+      "sha1": "04175b93e52653fa61111210538a5582ba152180"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Magical Chase (Japan).pce",
+      "size": 524288,
+      "sha1": "9e15320bea2fe067ad46a34f602905b9f8962d27"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Magical Chase (USA).pce",
+      "size": 524288,
+      "sha1": "50c940cc9b52167cb99dd760c25079a19fc0aa2b"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Mahjong Gakuen - Touma Soushirou Toujou (Japan).pce",
+      "size": 524288,
+      "sha1": "ce7f528302d77fd2c1cfa1a22cdfd4e399b57c87"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).pce",
+      "size": 524288,
+      "sha1": "66d9a1b80cdbf88d7f8be4c2c37901e9df4195dc"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Mahjong Gokuu Special (Japan).pce",
+      "size": 393216,
+      "sha1": "8cd848c675c50f72589170f973b5eab869173a03"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Mahjong Haouden - Kaiser's Quest (Japan).pce",
+      "size": 524288,
+      "sha1": "e539de46a672e7ec3eecca58adb924d622a78c98",
+      "sha256": "0667737c46c83a238ff57991f7b191eda7c455c78797c298e1cf63b1a0e4f4f3"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Mahjong Shikaku Retsuden - Mahjong Wars (Japan).pce",
+      "size": 262144,
+      "sha1": "75dd345155ffc062553eb3fe6cac3596e1ab8edd"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Maison Ikkoku (Japan).pce",
+      "size": 262144,
+      "sha1": "ce73c12393c6ce61401a9bf94a733b4dbc17ed78"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Makai Hakkenden Shada (Japan).pce",
+      "size": 262144,
+      "sha1": "3ca3057045a9f116aea655f6965e882991e021f7"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Makai Prince Dorabocchan (Japan).pce",
+      "size": 393216,
+      "sha1": "66cf002a82828596ed4dbd8a7b998526a624c7c5"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Makyou Densetsu (Japan).pce",
+      "size": 262144,
+      "sha1": "7e1b1f52222663e9e98973fdb3cf67879122b617",
+      "sha256": "7c8adec04be33eb26c1a4836c0427f76df3f37faeef81b3c4c1e482aafc0ed72"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Maniac Pro Wres - Asu e no Tatakai (Japan).pce",
+      "size": 524288,
+      "sha1": "d02b38ec1b516f1324dab3499523a306f574f957"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Mashin Eiyuuden Wataru (Japan).pce",
+      "size": 262144,
+      "sha1": "59db3e9d69cf34f76b6cb599d6c4fe6999162532",
+      "sha256": "f77c9f0ee7dc25f643e34894a484aca56f75a5fda086941091f0d39dd7004b5c"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Mesopotamia (Japan).pce",
+      "size": 524288,
+      "sha1": "70186b4d823a48aae09ed7e2bc8e16edfcaf4335"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Metal Stoker (Japan).pce",
+      "size": 524288,
+      "sha1": "06ae3e73fe8a83aac0159995e6db1c087799a9c5"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Military Madness (USA).pce",
+      "size": 393216,
+      "sha1": "01cf6be3fc11af874d25fc64bfb74f2f044f1bce"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Mizubaku Daibouken (Japan).pce",
+      "size": 524288,
+      "sha1": "6e99a1982b6e2b0b9fb82f1d30270620917e1b92"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Momotarou Densetsu Gaiden - Dai-1-shuu (Japan).pce",
+      "size": 524288,
+      "sha1": "da89f567e5b96469073a53095a25cb8971260dc6"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Momotarou Densetsu II (Japan).pce",
+      "size": 786432,
+      "sha1": "bc891a5703895551c8b8618b176065918317dee9"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Momotarou Densetsu Turbo (Japan).pce",
+      "size": 393216,
+      "sha1": "e6c5bd57f34d3c6b07818e351086cf63cd338f26"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Momotarou Katsugeki (Japan).pce",
+      "size": 524288,
+      "sha1": "b63aa8ae29b4d06dea7f5b795c4192285fc3c43b",
+      "sha256": "548f41efee5b0b5dfed041766cd83aa54ba68f573b82733c81979d50ea65c1ad"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Monster Pro Wres (Japan).pce",
+      "size": 524288,
+      "sha1": "b782344fad0efd1bcf6d3863e5f3ac9de45eee39"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Morita Shougi PC (Japan).pce",
+      "size": 524288,
+      "sha1": "77490668bd4beea8e46e1f2676095d8d6ef1c3cd"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Moto Roader (Japan).pce",
+      "size": 262144,
+      "sha1": "9737bd5a9d4f28544ad1cb25592e428bea98aa27",
+      "sha256": "b4cd0958fd362f135a8a643164b31ff373f8f6ba5189c05c773177902ee419fd"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Moto Roader (USA).pce",
+      "size": 262144,
+      "sha1": "bd92a8e6a1e860305a0943878a3b4a56ddde5478",
+      "sha256": "4fca3b7899afe2c0ce47914c236ae26d27c26555eff01d46fc2b99ed703e7e92"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Moto Roader II (Japan).pce",
+      "size": 393216,
+      "sha1": "101f6e3c90b314496b73ee9feab9a98f8d9b7821",
+      "sha256": "db6bd728b98f6c2ec32043a315f4d9abad524f523eca7b6a2809b6b49aa8c693"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "NHK Taiga Drama - Taiheiki (Japan).pce",
+      "size": 524288,
+      "sha1": "b7f407dc377a32f8b0d22dd3444405bc2e674741"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Narazumono Sentou Butai - Bloody Wolf (Japan).pce",
+      "size": 524288,
+      "sha1": "5c897decf660a41e4136f364a085e634d1fdc9a0"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Naxat Open (Japan).pce",
+      "size": 393216,
+      "sha1": "65eb861b8f63a131ad9de611ae5f432b02c1a283"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Naxat Stadium (Japan).pce",
+      "size": 524288,
+      "sha1": "203338d5535457df7504b0fc0cc61e2940ef2127"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Nazo no Mascarade (Japan).pce",
+      "size": 393216,
+      "sha1": "a449aee2f786f981539315565fe1cf4daab6eef9"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Necros no Yousai (Japan).pce",
+      "size": 524288,
+      "sha1": "151336738bc339bb46c8bc9c59f1066f7ed28f8b"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Nectaris (Japan).pce",
+      "size": 393216,
+      "sha1": "e87e25f73908161a8c7b4cb1f20708cb5f8aab3b"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Nekketsu Koukou Dodgeball-bu - PC Bangai Hen (Japan).pce",
+      "size": 262144,
+      "sha1": "582121ade819254da31fd8867c30e60195589a9a"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan).pce",
+      "size": 524288,
+      "sha1": "208296977d5f9d3c811ed6b10bc0e982a772ff48"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Neutopia (Japan).pce",
+      "size": 393216,
+      "sha1": "338e0fa3da1df9cc2f3ac30faa67467c74b6cb07"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Neutopia (USA).pce",
+      "size": 393216,
+      "sha1": "95d5fdbd6c9d6da2f288312309c2badd92f89cf4"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Neutopia II (Japan).pce",
+      "size": 786432,
+      "sha1": "d0ac1550b271eaa1d475d2e3829b4b2df0ac9f16",
+      "sha256": "e6a0a0f01de222b28dad80629cb80275b90cb4dfb0e23f26d4d2f0f7c2319cee"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Neutopia II (USA).pce",
+      "size": 786432,
+      "sha1": "d916c84955438b6fdfaea5b7696472ce479d4ff1"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "New Adventure Island (USA).pce",
+      "size": 524288,
+      "sha1": "bea7a4e5445d3a4f8610524471b83216e57f48e2"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "NewZealand Story, The (Japan).pce",
+      "size": 393216,
+      "sha1": "cda9acea9cae4899af35b6c49b9ed449c240af16"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Night Creatures (USA).pce",
+      "size": 524288,
+      "sha1": "16c4b43f92f5bc6c99fe84f71daff76cf1c0d0a6"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Niko Niko Pun (Japan).pce",
+      "size": 524288,
+      "sha1": "75226e0baa8df8179e40c3e5c398a42650506a12"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Ninja Ryuukenden (Japan).pce",
+      "size": 524288,
+      "sha1": "7f6a088424f849fc80f883d19533c031305d9616"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Ninja Spirit (USA).pce",
+      "size": 524288,
+      "sha1": "515eb414fc404d798206faad33fbcc5985fbbccb"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Ninja Warriors, The (Japan).pce",
+      "size": 393216,
+      "sha1": "27f30fa4eb12856bd21279e96d1764bba531432f"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Obocchama-kun (Japan).pce",
+      "size": 524288,
+      "sha1": "f505c31aab43ac6fd4d88fd14ae03a9c418e7357"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Off the Wall (USA) (Proto).pce",
+      "size": 524288,
+      "sha1": "eaf6083667104b427c2dc928a3aeae6edfc0005b"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Operation Wolf (Japan).pce",
+      "size": 524288,
+      "sha1": "da2a28e2961fa295c4b8f55bd5a6ce6f1c58beb7"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Ordyne (Japan).pce",
+      "size": 524288,
+      "sha1": "6b1e419c77f72d3588b52343989727b5a069df3a",
+      "sha256": "599846fdf21af0798b554d71aa4bf7a0a4d384f637f87cecf50d3ba3aaae4f78"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Ordyne (USA).pce",
+      "size": 524288,
+      "sha1": "06880cfeaf9a495cefa49e8c4fc2e94887d1543b"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Out Live (Japan).pce",
+      "size": 262144,
+      "sha1": "985222734388586a6b8530846fc9e4701c1ccd0b"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Out Run (Japan).pce",
+      "size": 524288,
+      "sha1": "4db6d354171a6e5f81d17d11e1aca7278a1fa95e"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Override (Japan).pce",
+      "size": 262144,
+      "sha1": "9da08c896e02b67257521b948c2fa5bc55724c0d"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "P-47 - The Freedom Fighter (Japan).pce",
+      "size": 262144,
+      "sha1": "54face25e1bdd6c1b842b957bcce272797ba7f1c"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "PC Denjin - Punkic Cyborgs (Japan).pce",
+      "size": 524288,
+      "sha1": "7713236070c2d5252faa651b6a8b7726cadb9bf4"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "PC Genjin - Pithecanthropus Computerurus (Japan).pce",
+      "size": 393216,
+      "sha1": "40fab9ea76d94d5569a977b1eb5a1dfb54978485"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "PC Genjin 2 - Pithecanthropus Computerurus (Japan).pce",
+      "size": 524288,
+      "sha1": "ef2b10e9bd35428bff3d67b9f77dd3ff50d91f2e"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Sample).pce",
+      "size": 786432,
+      "sha1": "55515655a818c0f2e1aa3b76b87022f125b915db"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "PC Genjin 3 - Pithecanthropus Computerurus (Japan).pce",
+      "size": 1048576,
+      "sha1": "201aaeafccc9247cf25fd6661c5798aabcc7b329"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "PC Pachi-Slot - Idol Gambler (Japan) (Unl).pce",
+      "size": 524288,
+      "sha1": "6d0c8ffc7071d5a25ed6f3ee1325fe021ead6f89"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Pac-Land (Japan).pce",
+      "size": 262144,
+      "sha1": "fc0166da82ed3cf4a4e06fc6c73fd3184ba8bb3b",
+      "sha256": "96af6599a93e74adf835d75dcf074c67b7623bbf2d338e59f88f4eaee89ea9d8"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Pac-Land (USA).pce",
+      "size": 262144,
+      "sha1": "ff74f1812196ec5c64df4b9a78a4697d3b53ef1a"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Pachio-kun - Juuban Shoubu (Japan).pce",
+      "size": 524288,
+      "sha1": "67749fc1c067c16000223fd3b7555fd85c9f9ebd"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Paranoia (Japan).pce",
+      "size": 262144,
+      "sha1": "b3097e7f163e4a067cf32f290e59657a8b5e271b"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Parasol Stars - The Story of Bubble Bobble III (Japan).pce",
+      "size": 393216,
+      "sha1": "94a4c4b16435b043b0b985af446d8767602f5041"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Parasol Stars - The Story of Bubble Bobble III (USA).pce",
+      "size": 393216,
+      "sha1": "c87524b4bd6e628e6f0551e8e50fded206ebe137"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Parodius Da! - Shinwa kara Owarai e (Japan).pce",
+      "size": 1048576,
+      "sha1": "5110dcc06efd1daaeb98305378d818519da88d28"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Populous (Japan).pce",
+      "size": 524288,
+      "sha1": "4912ccc31bdd45ef9483ea345bbe4c4ff2d70779"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Power Drift (Japan).pce",
+      "size": 524288,
+      "sha1": "1ffe1111a570b0cca256a356965fd6cdf7bcf2e9"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Power Eleven (Japan).pce",
+      "size": 393216,
+      "sha1": "f132948117d3135ec8d5d74eaac8d965e6676fb4",
+      "sha256": "cca6f15884ea4b201c324ab518d5d4c92cb742dfe7f86cfe918fdf9fad7c5f8c"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Power Gate (Japan).pce",
+      "size": 262144,
+      "sha1": "ba5b53a1561a2ecf6bd6aec18a9db34c211c05ea"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Power Golf (Japan).pce",
+      "size": 393216,
+      "sha1": "ff0a18094daecd56091f04f76b35551c303520b9",
+      "sha256": "d1147e2c70e7d902238905d3ef245266b69119d61a1313623a298de2e887cfee"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Power Golf (USA).pce",
+      "size": 393216,
+      "sha1": "a9a05cacbcae9031fc95b54ace08864a97affd6e",
+      "sha256": "7548bcec72b21492d1e027fe259300efc486a31960dea38b1420a11d88c63aef"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Power League '93 (Japan).pce",
+      "size": 786432,
+      "sha1": "0e710ee789206baceec43df7f24a8e80bdbc7154"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Power League (Japan).pce",
+      "size": 262144,
+      "sha1": "4e50a6c422b4d8c8ea0cce64e5acca7bf13adaf6",
+      "sha256": "9fe709fa6359edb3a079445441fbc30954a037eb5623718e879a7bef22aaf888"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Power League 4 (Japan).pce",
+      "size": 524288,
+      "sha1": "a21825a19bef0a4d7847f72b4a00acd74a53ebb8",
+      "sha256": "3ce4088a73f11cc10379281dd5c5c95ef8a6e8e9408b34888d9b5407db8c671d"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Power League 5 (Japan).pce",
+      "size": 786432,
+      "sha1": "6e94fa53d715d7c7ee26d49ea9a6b70005894e03"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Power League II (Japan).pce",
+      "size": 393216,
+      "sha1": "2d176bd9efcf1576646e8889768ef8c6662ee216"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Power League III (Japan).pce",
+      "size": 393216,
+      "sha1": "e6526db07c2de857ccf9b997e18ccfab73087133",
+      "sha256": "a9562ec55d09097d6ab7ad57b0a6ff2f24dcb0aa84065f4aadd9732ca91d457c"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Power Sports (Japan).pce",
+      "size": 524288,
+      "sha1": "dfb30bc069e97c72f051fc0ab237607187d4a52e"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Power Tennis (Japan).pce",
+      "size": 524288,
+      "sha1": "eef562022a9399586dd4278d7877e408c19b47dd"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Pro Tennis - World Court (Japan).pce",
+      "size": 262144,
+      "sha1": "1330fe108135e63acf8ff8938b38ca7b2b5f6af0",
+      "sha256": "e3143a2e1641d8f490847ebd2824314c28757ffefb6ae73277f8f3b53ad5f5e7"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Pro Yakyuu World Stadium '91 (Japan).pce",
+      "size": 262144,
+      "sha1": "6b76e9cc10a812c15631450b617ea3719fdcdc16",
+      "sha256": "b55af8048838dea55bed97849af3f4346795dcc773081ce2c0589fd1f2b0888b"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Pro Yakyuu World Stadium (Japan).pce",
+      "size": 262144,
+      "sha1": "0309ba1acc4955e582457fd3fcc4ea8e0abf1264",
+      "sha256": "3c6c5e265469fd7c31939fbe63dbc9682a8b7061fef1443aece03279a798231b"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Psycho Chaser (Japan).pce",
+      "size": 262144,
+      "sha1": "753fc6f1aa16770c87cc12967a43e951a7b1ec83"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Psychosis (USA).pce",
+      "size": 262144,
+      "sha1": "1cfcfc95bb01b24755e1fc9c3dfea393cb3cc3a9"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Puzzle Boy (Japan).pce",
+      "size": 262144,
+      "sha1": "f3d87e780683cd1873287069f4758581bb848935"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Puzznic (Japan).pce",
+      "size": 262144,
+      "sha1": "3906d644f5901e6d2e732cbd0a6dd0d38a29486b",
+      "sha256": "712b5ef904fda93652d301cd04847d92bd10fdd00156db32ed7352a6336e5ada"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Quiz Toukou Shashin (Japan) (Unl).pce",
+      "size": 1048576,
+      "sha1": "6b5d8e4b007de8a9b59d6a87802874f515cd1ae0"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "R-Type (USA).pce",
+      "size": 524288,
+      "sha1": "7e3d4dc9e8d880ac8d813fa69af0c6804b75cd9a",
+      "sha256": "87a443f6b8170d8fe71d470500059b4da36f8552064684f144bb6e4329bc6f4f"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "R-Type I (Japan).pce",
+      "size": 262144,
+      "sha1": "1170c63839fb94c754d07c4f6f49ad2de6666668",
+      "sha256": "c72e14a294f04de7ccbd29c45e22de05f7feaa92b8f0df4c52e5d0c046258c28"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "R-Type II (Japan) (v1.1).pce",
+      "size": 262144,
+      "sha1": "198eb4e62a1a0e591c1505ef188e74eff8415e0a"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "R-Type II (Japan).pce",
+      "size": 262144,
+      "sha1": "7667dce9f6a09f8197efe0718e476b48579760d6",
+      "sha256": "86b33cdb505a89fd2838c65448a299fb051222fc9715eb928540c2f663bd4b31"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Rabio Lepus Special (Japan).pce",
+      "size": 393216,
+      "sha1": "ebd12a22e2d139a904b8aff535787abc128ad61a"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Racing Damashii (Japan).pce",
+      "size": 524288,
+      "sha1": "8e558b47599a36d78d319e0dcd2e5136564df074"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Raiden (Japan).pce",
+      "size": 786432,
+      "sha1": "cef25446294884053442a4214434d7d97319ddca"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Raiden (USA).pce",
+      "size": 786432,
+      "sha1": "910e7346976b7a6e83ddb7e68b49d33ced9dbc2c"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Rastan Saga II (Japan).pce",
+      "size": 393216,
+      "sha1": "cf06ba4d1bd31ebd69f0415ae52848f752ec8f6b"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Rock-On (Japan).pce",
+      "size": 393216,
+      "sha1": "19a7744bc8355076f481446978f49175dbd132b9"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Ryuukyuu (Japan).pce",
+      "size": 262144,
+      "sha1": "2c9451619acb491eff2ed20bffe389b9261ba651"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "S.C.I. - Special Criminal Investigation (Japan).pce",
+      "size": 524288,
+      "sha1": "8d18aea811d752d24cc00f20d2c6ced67df1efa9"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Sadakichi Seven - Hideyoshi no Ougon (Japan).pce",
+      "size": 262144,
+      "sha1": "a629408efcc607a5385d81a8fe15f77e6a721ddd",
+      "sha256": "b30a0f05d655da6563556f9e7cb3491cc5520527bcd6fd41a541f8087cb4722b"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Saigo no Nindou - Ninja Spirit (Japan).pce",
+      "size": 524288,
+      "sha1": "14fc48758d658413f952a0b4f9465137164bdacc"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Salamander (Japan).pce",
+      "size": 262144,
+      "sha1": "a24e3a4ff36ec9fffd5ea1f4c6b526f61f842584"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Samurai-Ghost (USA).pce",
+      "size": 524288,
+      "sha1": "f6f26d8e4caafa7378f2756dd46569de4042dbbb"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Sekigahara (Japan).pce",
+      "size": 524288,
+      "sha1": "aefa660f6ff5845664b455e0c75e212733d45c06",
+      "sha256": "419fcb7e33e9ddd9e34939da778c5cad211a72f32e771b3972625cb0d97b426f"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Sengoku Mahjong (Japan).pce",
+      "size": 262144,
+      "sha1": "b0be49af6275179ff0d5a44acbcdd4c6f2c55a07",
+      "sha256": "dec9891a36ca9c6587bd5403a1b0c1ff87e8c9293e472fdfb640822b953e76c5"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Shanghai (Japan).pce",
+      "size": 131072,
+      "sha1": "11311390c11f4b72f5e07d2527039a7560405501",
+      "sha256": "52e620a1cbfc85480401997f3c38b94691e3320796b2a19d6b0053248fdd264d"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Shinobi (Japan).pce",
+      "size": 393216,
+      "sha1": "c219f8477dc2b34b53c25a419332595835d1f5ec"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Shiryou Sensen - War of the Dead (Japan).pce",
+      "size": 262144,
+      "sha1": "8e2510d9930d0e7d0a13bcc9d5ded32f6eed8617"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Shockman (USA).pce",
+      "size": 524288,
+      "sha1": "f3e0f9546afe257748496a652f138dbc318bed05",
+      "sha256": "0e05643c12561ee00ea064986b58c07b4bfcfc1a1ef57a90e0aa4a9075ad4a8a"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Shougi Shodan Icchokusen (Japan).pce",
+      "size": 262144,
+      "sha1": "af992d6c74266366c4dacdde258f91cb0056d3b9",
+      "sha256": "1fab20c4a1a5c0fef0c6fe4a337ca9b65e9f13818b40fa4680aa127f8eae2ed8"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Shougi Shoshinsha Muyou (Japan).pce",
+      "size": 262144,
+      "sha1": "cfeaf0af946b6f168a919687528264db7f448f3c",
+      "sha256": "7c4bd490f47e3925796380fff47340e6098b2ece55b76fd7393352f70a9812d0"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "SideArms (USA).pce",
+      "size": 262144,
+      "sha1": "773a372ef5ee599ebd6f048fddb86739e255583e"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "SideArms - Hyper Dyne (Japan).pce",
+      "size": 262144,
+      "sha1": "b732b3485bd8841d3571221170b04b7f699e9109"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Silent Debuggers (Japan).pce",
+      "size": 524288,
+      "sha1": "9101f738a37c9fcbc69308449cdfb94c928f64c6"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Silent Debuggers (USA).pce",
+      "size": 524288,
+      "sha1": "c010ba9ff55a2558bba94ac39aa0160c76daff0c"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Sindibad - Chitei no Daimakyuu (Japan).pce",
+      "size": 393216,
+      "sha1": "6d99d2e3acac7399afbeeb1acf108ff96703cc47"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Sinistron (USA).pce",
+      "size": 393216,
+      "sha1": "65defeeecfe60564a214b6572f94243fcfea78e0"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Skweek (Japan).pce",
+      "size": 262144,
+      "sha1": "3436b48a9c748269f6ae65e40c9115a27321d440"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Soldier Blade (Japan).pce",
+      "size": 524288,
+      "sha1": "bb6259ecfee3cc28ddbf1b1c1416f281ecccbe31"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Soldier Blade (USA).pce",
+      "size": 524288,
+      "sha1": "3b4cc242f68a1d61c83a1a0dbdee23d2ae8f1427"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Soldier Blade - Special Version (Japan).pce",
+      "size": 524288,
+      "sha1": "328a85924778d742cc5b191ac60d79a7ed9b0620"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Somer Assault (USA).pce",
+      "size": 524288,
+      "sha1": "bb6b5a59106bd60fbe7b1d7def7f73253440b49a"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Son Son II (Japan).pce",
+      "size": 262144,
+      "sha1": "51aa9b47aa5f68102989885a1b92bb6b563ffe3a"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Sonic Spike - World Championship Beach Volleyball (USA).pce",
+      "size": 262144,
+      "sha1": "5a74eead0593190979028ef99a19519bab00b3ab"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Soukoban World (Japan).pce",
+      "size": 131072,
+      "sha1": "89899202fe2a7607f9e5f2ab1b29280f3d7d5aef"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Space Harrier (Japan).pce",
+      "size": 524288,
+      "sha1": "b59ccab8f7e73d4a9b29ccd8befb78cbcd491fa4"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Space Harrier (USA).pce",
+      "size": 524288,
+      "sha1": "948e6a5c30dcf945ab8332009ae4fa3ab231255a"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Space Invaders - Fukkatsu no Hi (Japan).pce",
+      "size": 262144,
+      "sha1": "cf6a4ef91b3eebe81bb6af55ed9ef6dd816d1765",
+      "sha256": "065f194f8caca0bde1bc3f1a201600b88ad6200bae5bc4dbe443442e1b8d91e3"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Spin Pair (Japan).pce",
+      "size": 262144,
+      "sha1": "a903a3e3a55b1fd9064efa668bcea53055c12682"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Spiral Wave (Japan).pce",
+      "size": 524288,
+      "sha1": "83ad9abe6469fa1a298e5cc059914ac0e92be209"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Splatterhouse (Japan) (En).pce",
+      "size": 524288,
+      "sha1": "b0bdbb7729d775496581dc3141c4447614aaac46"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Splatterhouse (USA).pce",
+      "size": 524288,
+      "sha1": "e2167b5d67a065ec97763d3ee843ac2b2328c082"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Stratego (Japan).pce",
+      "size": 262144,
+      "sha1": "cb67d9cf50cbef0e3b455409bc0a4f81ec57da99"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Street Fighter II' - Champion Edition (Japan).pce",
+      "size": 2621440,
+      "sha1": "e757ecdf857803cb46cdf37ecf4596f6eaccdd76",
+      "sha256": "6d6578742384cf0b771414ddf016b7dc133ad0350a838d134036124fed6e60e1"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Strip Fighter II (Japan) (Unl).pce",
+      "size": 1048576,
+      "sha1": "8dd63c3c499261af9ea43fcdd23066b0140e3ea1"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Super Metal Crusher (Japan).pce",
+      "size": 262144,
+      "sha1": "6050eb365dcc42b90e8ddacf44685d72744ab4f0"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Super Momotarou Dentetsu (Japan) (Alt).pce",
+      "size": 393216,
+      "sha1": "e4c6129e98cf37fce6cfc5352d112b1ec728d166"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Super Momotarou Dentetsu (Japan).pce",
+      "size": 393216,
+      "sha1": "353a1ff7997df5d7be6ee03f1157fd746939ed61",
+      "sha256": "2eb951205aa86a8d062b92fefc8c784ca4a7227a188f7d448ed645734d5a7fc9"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Super Momotarou Dentetsu II (Japan).pce",
+      "size": 786432,
+      "sha1": "a9e874453d18738d63523ace2419b7cd95a381a7",
+      "sha256": "bb216d558b8696d3ef6055a161c235b9d21b3f99bdc4b74d5a4b6a01a4ed36e7"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Super Star Soldier (Japan).pce",
+      "size": 524288,
+      "sha1": "4220516a17bc32a3f68ed51ef2af63e496e79f7d",
+      "sha256": "ccf41845d6e6472aa9c8e7604fef8d7a8a820e7e160f4dffd3d8e0f7cb7a38d1"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Super Star Soldier (USA).pce",
+      "size": 524288,
+      "sha1": "e0c487782e155b1cf50f5fb4c8d6a24be0301a6e"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Super Volley Ball (Japan).pce",
+      "size": 262144,
+      "sha1": "46dd4acebe25de38f28e56cf149b24b42f3aef31",
+      "sha256": "e05f654b19bc8243651940f330cf9552b6fdc2c9f16c4b5b12225abef096bd2a"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Super Volleyball (USA).pce",
+      "size": 262144,
+      "sha1": "de71722255d0136b47f63e93bedb2ed8b3d0d4f0"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Susanoou Densetsu (Japan).pce",
+      "size": 524288,
+      "sha1": "43853c5622992dfdc6844376f61b8998e44e2eaf",
+      "sha256": "821aa035e67eb84a4c5fb12457c1c6fc04a1987ecc2b8da8ee596d6db7b8789d"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "TV Sports Basketball (Japan).pce",
+      "size": 524288,
+      "sha1": "a4b8766db8acc6e8f76772b278609f80e55af67f"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "TV Sports Basketball (USA).pce",
+      "size": 524288,
+      "sha1": "6c0fdeafa9dc1c4b7f935866e5bc620dd3151f3c"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "TV Sports Football (Japan).pce",
+      "size": 393216,
+      "sha1": "2ba8e2da6e2aa26722cdc5f1646163444b2bb98f",
+      "sha256": "16f4b39a916e8db28f6ec4094d0612de82bb5ad40a30aceb8488752376b08d8f"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "TV Sports Football (USA).pce",
+      "size": 393216,
+      "sha1": "b73f44ad60e0f4b13c6b80f5509cb51245cc8106"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "TV Sports Hockey (Japan).pce",
+      "size": 393216,
+      "sha1": "7ef8bc6e42c4bf023802a659c7856670dae02449"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "TV Sports Hockey (USA).pce",
+      "size": 393216,
+      "sha1": "f5cde3af4fac59e402a9c96c4adbbc9e55ce5936"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Taito Chase H.Q. (Japan).pce",
+      "size": 393216,
+      "sha1": "f4cd413a1f87027194b7cadfbaaa714c137e877f"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Takahashi Meijin no Shin Bouken-jima (Japan).pce",
+      "size": 524288,
+      "sha1": "ab179fc81694676f57d0ce2e0834c875f36271b0"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Takeda Shingen (Japan).pce",
+      "size": 262144,
+      "sha1": "902202b2990b1737db3ab4d7db801715d54eb814"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Takin' It to the Hoop (USA).pce",
+      "size": 262144,
+      "sha1": "1f36230efde7025730c1a0dbf3aa47b887440ecd"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "TaleSpin (USA).pce",
+      "size": 524288,
+      "sha1": "987d16a0f329fc6831fc9b6dea1234684925aab4"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Tatsujin (Japan) (Beta).pce",
+      "size": 524288,
+      "sha1": "c36fb68b7fda1e4e1d021f6ae00522c9832bd225"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Tatsujin (Japan).pce",
+      "size": 524288,
+      "sha1": "dda768075fbf8c0624e2c1f217b1092513b1c942"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Tatsunoko Fighter (Japan).pce",
+      "size": 262144,
+      "sha1": "f0de077362365d8216eeba0f89cec9cae4cdc132"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Ten no Koe Bank (Japan).pce",
+      "size": 131072,
+      "sha1": "8ade1c698e0cb96ce3ed01986c7e5268aa5a1451",
+      "sha256": "16d43e32b34ed40b0a59f4122370f4d973af33a6122c9ccbfab6bb21cf36f1b3"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Tenseiryuu - Saint Dragon (Japan).pce",
+      "size": 393216,
+      "sha1": "a9637a5efeb555426a44ae1cc86ed25a9520759d"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Terra Cresta II - Mandoler no Gyakushuu (Japan).pce",
+      "size": 524288,
+      "sha1": "c58d3ea8df6cb518349d431d6b3d6fd2c14898ec"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Thunder Blade (Japan).pce",
+      "size": 524288,
+      "sha1": "553f8026dd68e85cd17855adbf920b3971acfdc4"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Tiger Road (USA).pce",
+      "size": 393216,
+      "sha1": "2535994f2be5d7b80cf5725505a4b8e30daef236"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Time Cruise (USA).pce",
+      "size": 524288,
+      "sha1": "55557a972375e58e5fcc5ee113d0ca40b332bbb2"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Time Cruise II (Japan).pce",
+      "size": 524288,
+      "sha1": "84bf83124a77ff67aaa0ea3f34ad9edbb755454d"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Timeball (USA).pce",
+      "size": 131072,
+      "sha1": "bd11ef42d932a1cf89fe7dc81a2f4b7a3ee06e4e"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Titan (Japan).pce",
+      "size": 262144,
+      "sha1": "7d12a65453c8d3d539104904a9a1eb9e429f9ab4"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Toilet Kids (Japan).pce",
+      "size": 524288,
+      "sha1": "1148ec489899928592212ceac61c83cbc67751cb"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Tora e no Michi (Japan).pce",
+      "size": 393216,
+      "sha1": "ea66f8c1be62e853b72f93a3a1e3b597356ae62f"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Tower of Druaga, The (Japan).pce",
+      "size": 524288,
+      "sha1": "1d34d947d9dfd4d7a3e1a0dda789645cd8c4ac29"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Toy Shop Boys (Japan).pce",
+      "size": 262144,
+      "sha1": "d552223399ff54c3664a5a06fc620ffb717cea57"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Tricky (Japan).pce",
+      "size": 262144,
+      "sha1": "009e0ea4203bab968cea3cd9428c633ce2c5c26e"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Tricky Kick (USA).pce",
+      "size": 262144,
+      "sha1": "3fb1ba72af0e7ae33e35ae30ce0b7319adece208"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Tsuppari Oozumou - Heisei Ban (Japan).pce",
+      "size": 262144,
+      "sha1": "24df2dfec320b5dd04cf3d01cc586954bd33f72d"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan).pce",
+      "size": 262144,
+      "sha1": "b07b7365f07607b5d528cd82bdcfeab40fb1afc4"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Turrican (USA).pce",
+      "size": 262144,
+      "sha1": "a5830c0d5cd94e3c6f33e1799bb123857400b1bc"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "USA Pro Basketball (Japan).pce",
+      "size": 262144,
+      "sha1": "62f3e0c56d22c015bea15fe04cd16fae380fefcd",
+      "sha256": "1f1c0158a3bfc25001ac7ccf0e65ca320109199c6d20af666d71f608a26456de"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Valkyrie no Densetsu (Japan).pce",
+      "size": 524288,
+      "sha1": "2054898ae28f962d2e20cdaca62e8b88e932f304"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Veigues - Tactical Gladiator (Japan).pce",
+      "size": 393216,
+      "sha1": "da66c085ecbb317cb160cb192142a3d2c044f26f"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Veigues - Tactical Gladiator (USA).pce",
+      "size": 393216,
+      "sha1": "88a858feeba77031e7d2fb85e563aafcbd9b0b39"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Victory Run (USA).pce",
+      "size": 262144,
+      "sha1": "bab16031a16490415cedd5ba47cbe4cadc3d8727"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Victory Run - Eikou no 13,000km (Japan).pce",
+      "size": 262144,
+      "sha1": "68044c5fb23f27697ff88657a22ef60ff6d61396",
+      "sha256": "5e2bce8efbba82bd89efd571c3534360344797262a5762cdf253aa61e01523a1"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Vigilante (Japan).pce",
+      "size": 393216,
+      "sha1": "a43ddb6b9d70c7597788abd363b5df719b70bc46",
+      "sha256": "2581fae9ab10ca6da900c09c68594e632d394b9a1eb885f4cd01e0f1382a1cb6"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Vigilante (USA).pce",
+      "size": 393216,
+      "sha1": "f77d83af4f1e733faf813b5e78ecc2cbb19d3b25",
+      "sha256": "a6d0c3a9a9f0b212ff862f2a1cca21e5ffda124c037c3afbcde042bd39d49c55"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Violent Soldier (Japan).pce",
+      "size": 393216,
+      "sha1": "76581fe7acb707b1e5bab2ac27cd27e3ed06078a"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Volfied (Japan).pce",
+      "size": 393216,
+      "sha1": "0ecee557815b93fc37f2f5675c2c01c77ef8569e",
+      "sha256": "bddf46819ad75331ac907c64a83e352e0d1e8b2e642ae680a8ef7cfaacb4880a"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "W-Ring - The Double Rings (Japan).pce",
+      "size": 393216,
+      "sha1": "95d0a95ce9f08da3f096cfdc654ba5dfeb794add"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan).pce",
+      "size": 262144,
+      "sha1": "8f478a023a97b0979232f1e296bbf0a6c0b2ef8b"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).pce",
+      "size": 393216,
+      "sha1": "03ad5a8b2bb65eabebe73c1e2ca1e1846cc172bf"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Winning Shot (Japan).pce",
+      "size": 262144,
+      "sha1": "039ff38e6221b4b7722144e85dc7c84873d7efe6",
+      "sha256": "96f41bd8e07a8a745e7fee4999e2726dfcd39c10c829cb71f759ce2f0173efcd"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Wonder Momo (Japan).pce",
+      "size": 262144,
+      "sha1": "5af6050a0a549e73f05a2d06fd2f55a93027be5f"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "World Beach Volley (Japan).pce",
+      "size": 262144,
+      "sha1": "8aa42b9024820e7e503e9b9e8ac05e424643ef81"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "World Circuit (Japan).pce",
+      "size": 262144,
+      "sha1": "18909a1215da66f6d16eab4251b574b86d2b748e",
+      "sha256": "8107282b3b8797a7ca7ea0291145a379d60ac117301c65f43cf004e68b71dbfa"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "World Class Baseball (USA).pce",
+      "size": 262144,
+      "sha1": "fab372a908533fd444b6c829f881f2de103d93b6"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "World Court Tennis (USA).pce",
+      "size": 262144,
+      "sha1": "d302676c409a59628935298b95c7ba43359b29bb"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "World Jockey (Japan).pce",
+      "size": 262144,
+      "sha1": "9fdeb0c34ea8b8d2a09aeb476435ef9d92e75573",
+      "sha256": "5d6d21bafad1daddce338da166b3258210b5c03e5cfbab835c41ed694986c7bb"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "World Sports Competition (USA).pce",
+      "size": 524288,
+      "sha1": "1f301c468197c382c98692712db2fdee0a29525f"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Xevious - Fardraut Saga (Japan).pce",
+      "size": 262144,
+      "sha1": "13da0500ace1957d0748b11dfaae68e40e71230e"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Yo, Bro (USA).pce",
+      "size": 524288,
+      "sha1": "efff8d352af6c1d08899bac77fc3ddc994e0a3ba"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "You-You Jinsei (Japan).pce",
+      "size": 262144,
+      "sha1": "c59f0d5248373bc00ea19a9e4f08e461c27e5fea",
+      "sha256": "98e17bb13d41fc737999c488a5db97360c11f67af408bcb71bbe35c003f0d738"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Youkai Douchuuki (Japan).pce",
+      "size": 262144,
+      "sha1": "a258201c6258c8e108c7ce80a39c456ef9116260",
+      "sha256": "4dc80fe43008d28af00b82996b742d02403e704441c0ed432382a4f756324a3a"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Zero4 Champ (Japan) (Alt).pce",
+      "size": 524288,
+      "sha1": "2b664760931cc6011d31cae310410dab7cba2067"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Zero4 Champ (Japan).pce",
+      "size": 524288,
+      "sha1": "79d9878e285e426b9ca58e15249a1bc98186d4e9"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "Zipang (Japan).pce",
+      "size": 262144,
+      "sha1": "7b6214df81a978ab8d73e437510f5230e83403bd"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "[BIOS] CD-ROM System (Japan) (v1.0).pce",
+      "size": 262144,
+      "sha1": "a39a66da7de6ba94ab84d04eef7afeec7d4ee66a",
+      "sha256": "afe9f27f91ac918348555b86298b4f984643eafa2773196f2c5441ea84f0c3bb"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "[BIOS] CD-ROM System (Japan) (v2.0).pce",
+      "size": 262144,
+      "sha1": "f92ea593c8a935f58f8e1c3b2fc730951ec4fa71",
+      "sha256": "909f2153e624b76392684434ba5aa3e394cbba0318a0dda350140cb61ce9bc49"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "[BIOS] CD-ROM System (Japan) (v2.1).pce",
+      "size": 262144,
+      "sha1": "88da02e2503f7c32810f5d93a34849d470742b6d",
+      "sha256": "0deb13845c7e44ea78a25bbbe324afd60a0ec29ea5a4cf5780349f1598d24cd3"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "[BIOS] Games Express CD Card (Japan) (Blue Version).pce",
+      "size": 32768,
+      "sha1": "014881a959e045e00f4db8f52955200865d40280"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "[BIOS] Games Express CD Card (Japan) (Green Version).pce",
+      "size": 16384,
+      "sha1": "2deab749901d41072fb8bd7380c61a161aaf8ec0"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "[BIOS] Super CD-ROM System (Japan) (v3.0).pce",
+      "size": 262144,
+      "sha1": "79f5ff55dd10187c7fd7b8daab0b3ffbd1f56a2c",
+      "sha256": "e11527b3b96ce112a037138988ca72fd117a6b0779c2480d9e03eaebece3d9ce"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).pce",
+      "size": 262144,
+      "sha1": "d02611d99921986147c753df14c7349b31d71950"
+    },
+    {
+      "system": "PCE",
+      "platform": "PCE",
+      "title": "[BIOS] TurboGrafx CD System Card (USA) (v2.0).pce",
+      "size": 262144,
+      "sha1": "2bea3dac98f84b2f2f469fa77ea720b8770d598d"
+    }
+  ],
+  "excluded_size_count": 0
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "PCE": {
+    "rbf": "_Console/TurboGrafx16",
+    "delay": 2,
+    "index": 0,
+    "type": "f"
+  },
+  "SGX": {
+    "rbf": "_Console/TurboGrafx16",
+    "delay": 2,
+    "index": 1,
+    "type": "f"
+  },
+  "MD": {
+    "rbf": "_Console/MegaDrive",
+    "delay": 2,
+    "index": 1,
+    "type": "f"
+  },
+  "NES": {
+    "rbf": "_Console/NES",
+    "delay": 2,
+    "index": 1,
+    "type": "f"
+  },
+  "GB": {
+    "rbf": "_Console/Gameboy",
+    "delay": 2,
+    "index": 1,
+    "type": "f"
+  },
+  "GBA": {
+    "rbf": "_Console/GBA",
+    "delay": 2,
+    "index": 1,
+    "type": "f"
+  },
+  "GBC": {
+    "rbf": "_Console/Gameboy",
+    "delay": 2,
+    "index": 1,
+    "type": "f"
+  },
+  "SFC": {
+    "rbf": "_Console/SNES",
+    "type": "f",
+    "index": 1,
+    "delay": 2
+  }
+}
